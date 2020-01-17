@@ -1,5 +1,5 @@
 [flake8]
 exclude =
   _pycache_,
-  manage.oy,
+  manage.py,
   settings.py
